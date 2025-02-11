@@ -1,0 +1,16 @@
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_1_4\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
